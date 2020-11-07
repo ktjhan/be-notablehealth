@@ -1,0 +1,20 @@
+{
+  "name": "notable-health-backend",
+  "version": "1.0.0",
+  "description": "BE for notable health",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kavin Tjhan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cors": "^2.8.5",
+    "crossenv": "0.0.2-security",
+    "express": "^4.17.1",
+    "helmet": "^4.2.0",
+    "knex": "^0.21.12",
+    "sqlite3": "^5.0.0"
+  }
+}
